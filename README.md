@@ -5,7 +5,11 @@ See the weather details by simply just entering city and country name
 Deployed on Render, you can visit by [clicking here](https://weather-app-w7kw.onrender.com/)
 
 # Demo
-[click here](https://drive.google.com/file/d/11K2yNJ_b8OkvYuC0Y1jQyQdXmt1IWI8w/view?usp=sharing)
+
+
+https://github.com/AnkushGoel251/Weather-App/assets/77546629/32749cd1-6ecc-4cf3-9d36-b7c79fba36e0
+
+
 
 ## Getting Started
 To get started with Weather Webapp, follow these steps:
